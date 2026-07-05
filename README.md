@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá! Bem-vindo ao meu Code Lab 🧪
 
-<!--
-**claudiocastro-dev/claudiocastro-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Cláudio G. S. Castro** e este é o meu ambiente de experimentação (`claudiocastro-dev`).
 
-Here are some ideas to get you started:
+Utilizo este espaço como um laboratório prático para testar ideias, validar arquiteturas e aprofundar meus estudos de forma isolada. É aqui que o aprendizado contínuo acontece nos bastidores.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ O que costumo explorar por aqui:
+*   **Backend:** Prototipagem de APIs, testes de arquitetura e novos recursos com **Java** e **Spring Boot**.
+*   **Inovação:** Experimentações práticas com integrações de ferramentas de Inteligência Artificial e automação de fluxos.
+*   **Infraestrutura:** Testes com bancos de dados, Docker e consumo de APIs externas.
+
+---
+
+🚀 **Conheça meu Portfólio Principal:**
+Para ver meus projetos consolidados, código em produção e meu histórico principal de contribuições, visite meu perfil oficial de desenvolvedor:
+
+👉 **[github.com/claudiodeveloper-github](https://github.com/claudiodeveloper-github)**
